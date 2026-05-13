@@ -1,0 +1,1 @@
+In the data base file we need to give the table script and static data ans views in separate files
